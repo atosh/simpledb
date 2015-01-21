@@ -3,4 +3,12 @@
   <groupId>simpledb</groupId>
   <artifactId>simpledb</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <scope>test</scope>
+      <version>4.10</version>
+    </dependency>
+  </dependencies>
 </project>
